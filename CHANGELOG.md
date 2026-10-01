@@ -6,6 +6,17 @@ I post every release in the [Discord](https://huntersalgo.com/discord) as it goe
 
 Entries are newest first. Each one is tagged as a release, an improvement or infra.
 
+## The Philosophers: the new flagship, coming soon
+
+*1 October 2026, announcement*
+
+The Philosophers is the new flagship on huntersalgo.com, in place of HunterML on the homepage. It is two NinjaTrader 8 strategies for NQ and ES: Plato for the New York open and Aristotle for the afternoon session. It was developed by ShakeMyShaft and is published by HuntersAlgo.
+
+It is in forward testing and not in the subscriber download yet. The strategy page has the backtest summary, the setup requirements and the limitations. HunterML stays in the suite, and its published results are unchanged.
+
+- [The Philosophers](https://huntersalgo.com/strategies/the-philosophers)
+- [Results](https://huntersalgo.com/results)
+
 ## HunterStrike is out
 
 *24 September 2026, release*
