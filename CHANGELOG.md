@@ -6,6 +6,17 @@ I post every release in the [Discord](https://huntersalgo.com/discord) as it goe
 
 Entries are newest first. Each one is tagged as a release, an improvement or infra.
 
+## The Philosophers is out
+
+*2 October 2026, release*
+
+The Philosophers is in the subscriber download: two NinjaTrader 8 strategies for NQ and ES, Shake.Plato for the New York open and Shake.Aristotle for the afternoon session, with ten ready-made templates.
+
+Import the zip from the Discord (Tools, then Import, then NinjaScript Add-On), restart NinjaTrader, and find them under Shake, then Philosophers. Enter your Whop email in the strategy settings. It is included in every plan. Developed by ShakeMyShaft, published by HuntersAlgo.
+
+- [The Philosophers](https://huntersalgo.com/strategies/the-philosophers)
+- [Install guide](https://huntersalgo.com/guides/install-ninjatrader-strategy)
+
 ## The Philosophers: the new flagship, coming soon
 
 *1 October 2026, announcement*
