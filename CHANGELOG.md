@@ -6,6 +6,21 @@ I post every release in the [Discord](https://huntersalgo.com/discord) as it goe
 
 Entries are newest first. Each one is tagged as a release, an improvement or infra.
 
+## V3.1 templates and account packs
+
+*26 October 2026, release*
+
+Fifteen new settings templates across HunterKillShot, HunterEMA, HunterICT, HunterFlare, Hunter3BP, HunterBreakOut and HunterGC, each in a full-size and a micro version. They were tuned on two years and then checked on a year the tuning never saw; the fifteen kept are the ones that made money in that year. Three ES templates (3BP, BreakOut, Flare) stop entering earlier in the afternoon, which cut their drawdowns.
+
+Four account packs ($25k, $50k, $100k, $150k) bundle templates sized to stay inside a typical prop-firm trailing drawdown.
+
+In the Discord: one thread per strategy in #v3-1-templates with the zip, the Strategy Analyzer screenshots and the trade logs, and one thread per pack in #account-packs-templates. Every strategy with results now has its own page on the website with every run, screenshot and trade log.
+
+Hunter4PMBreak is retired from the site and the published lists; the file stays in the download for anyone still running it.
+
+- [Results](https://huntersalgo.com/results)
+- [Setup guide](https://huntersalgo.com/start)
+
 ## The Philosophers is out
 
 *2 October 2026, release*

@@ -38,7 +38,6 @@ Several run on any liquid futures contract. Each strategy page on the site lists
 - HunterNova: momentum
 - HunterEMA: EMA crossover
 - HunterSI: silver-tuned
-- Hunter4PMBreak: 4 PM session break
 - HunterICT: ICT liquidity model
 - HunterKillShot: liquidity sweep
 - HunterORB: opening range breakout
